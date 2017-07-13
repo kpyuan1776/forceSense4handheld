@@ -2,7 +2,7 @@
 arduino and processing code for measuring, displaying and recording data from a force sensor plugged into Uno's AI0
 
 
-![distances of stations](https://github.com/kpyuan1776/mvv_analyse/blob/master/mvvanalyse.png)
+![distances of stations](https://raw.githubusercontent.com/kpyuan1776/forceSense4handheld/master/depictForce.png)
 
 ## installation and getting started
   * get arduino environment (here at least Arduino 1.6.9)
